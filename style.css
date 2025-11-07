@@ -42,7 +42,7 @@ body {
   position: absolute;
   width: 270px;
   height: auto;
-  right: -10px;
+  right: -20px;
   top: 30px;
 }
 .jessImg {
@@ -114,12 +114,12 @@ p {
     top: 120px;
     left: 50px;
   }
+   .balloons {
+    width: 220px;
+  }
   .bdHat {
     width: 120px;
     left: 40px;
-  }
-  .balloons {
-    width: 220px;
   }
   .happy {
     font-size: 1.3em;
